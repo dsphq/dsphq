@@ -1,0 +1,64 @@
+{
+  "name": "dsphq",
+  "version": "1.0.0",
+  "private": true,
+  "license": "agpl-3.0",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/styles": "^3.0.0-alpha.10",
+    "axios": "^0.18.0",
+    "bignumber.js": "^9.0.0",
+    "bytebuffer": "^5.0.1",
+    "chart.js": "^2.8.0",
+    "clipboard-copy": "^3.0.0",
+    "eos-transit": "^3.1.0",
+    "eos-transit-lynx-provider": "^3.1.0",
+    "eos-transit-meetone-provider": "^3.1.0",
+    "eos-transit-scatter-provider": "^3.1.0",
+    "eos-transit-tokenpocket-provider": "^3.1.2",
+    "humanize-duration": "^3.18.0",
+    "json2yaml": "^1.1.0",
+    "jsonpath": "^1.0.2",
+    "mdi-material-ui": "^6.0.0",
+    "mobx": "^5.10.0",
+    "mobx-react": "^6.0.3",
+    "mobx-react-lite": "^1.4.0",
+    "numeral": "^2.0.6",
+    "prismjs": "^1.16.0",
+    "qs": "^6.7.0",
+    "react": "^16.8.6",
+    "react-chartjs-2": "^2.7.6",
+    "react-dom": "^16.8.6",
+    "react-infinite-scroller": "^1.2.4",
+    "react-markdown": "^4.0.8",
+    "react-placeholder": "^3.0.2",
+    "react-prism": "^4.3.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.0",
+    "react-select": "^2.4.3",
+    "text-encoding": "^0.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
